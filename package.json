@@ -1,0 +1,17 @@
+{
+  "name": "cdk-apprunner-autoscaling",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "repository": "https://github.com/Negan1911/cdk-apprunner-autoscaling.git",
+  "author": "Nahuel Veron <nahuelav96@gmail.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "aws-cdk-lib": "^2.69.0",
+    "constructs": "^10.1.278",
+    "typescript": "^5.0.2"
+  },
+  "peerDependencies": {
+    "aws-cdk-lib": "^2.69.0"
+  }
+}
