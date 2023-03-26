@@ -6,6 +6,8 @@
   "author": "Nahuel Veron <nahuelav96@gmail.com>",
   "license": "MIT",
   "dependencies": {},
+  "files": ["dist"],
+  "keywords": ["AppRunner", "AutoScaling", "CDK"],
   "devDependencies": {
     "aws-cdk-lib": "^2.69.0",
     "constructs": "^10.1.278",
