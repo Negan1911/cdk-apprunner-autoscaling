@@ -2,6 +2,9 @@
 
 This AWS CDK construct enables autoscaling for AWS AppRunner services on CloudFormation. The construct is written in TypeScript and uses the AWS CDK Custom Resources to create the required AWS resources.
 
+## Deprecation Notice:
+Aws has published the new constructs for this configuration, use them instead, doc here: https://docs.aws.amazon.com/cdk/api/v2/docs/aws-cdk-lib.aws_apprunner.CfnAutoScalingConfiguration.html
+
 Requirements
 To use this construct, you'll need the following:
 
